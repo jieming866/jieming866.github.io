@@ -10,3 +10,7 @@
 - Some system calls return information, usually in rax. A value in the range between -4095 and -1 indicates an error, it is -errno.
 - The system call destroys rcx and r11 but others registers are saved across the system call.
 - Full details are in Section A.2.1 of the The [AMD64 ABI](http://www.x86-64.org/documentation/abi.pdf).
+
+## linux assembly resources
+[Linux Assembly](http://asm.sourceforge.net/)
+[X86 Opcode and Instruction Reference is](http://ref.x86asm.net/)
