@@ -12,5 +12,5 @@
 - Full details are in Section A.2.1 of the The [AMD64 ABI](http://www.x86-64.org/documentation/abi.pdf).
 
 ## linux assembly resources
-[Linux Assembly](http://asm.sourceforge.net/)
-[X86 Opcode and Instruction Reference is](http://ref.x86asm.net/)
+- [Linux Assembly](http://asm.sourceforge.net/)
+- [X86 Opcode and Instruction Reference is](http://ref.x86asm.net/)
