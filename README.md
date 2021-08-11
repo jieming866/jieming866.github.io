@@ -1,12 +1,10 @@
 # Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/jieming866/jieming866.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## System Calls in 32-bit Linux
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- To make a system call in 32-bit Linux, place the system call number in eax, then its arguments, in order, in ebx, ecx, edx, esi, edi, and ebp, then invoke int 0x80.
+- Some system calls return information, usually in eax.
+- All registers are saved across the system call.
 
 ```markdown
 Syntax highlighted code block
