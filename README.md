@@ -14,3 +14,7 @@
 ## linux assembly resources
 - [Linux Assembly](http://asm.sourceforge.net/)
 - [X86 Opcode and Instruction Reference is](http://ref.x86asm.net/)
+
+## github acc
+- [github.global.ssl.fastly.net](http://github.global.ssl.fastly.net.ipaddress.com/#ipinfo)
+- [github.com](https://github.com.ipaddress.com/#ipinfo)
