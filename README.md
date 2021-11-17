@@ -18,3 +18,6 @@
 ## github acc
 - [github.global.ssl.fastly.net](http://github.global.ssl.fastly.net.ipaddress.com/#ipinfo)
 - [github.com](https://github.com.ipaddress.com/#ipinfo)
+
+## launch chrome with socks proxy
+- /opt/google/chrome/google-chrome --user-data-dir=/tmp --proxy-server="socks5://localhost:10800"
